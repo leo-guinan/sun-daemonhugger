@@ -1,0 +1,382 @@
+{
+  "id": "sun-daemonhugger",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@daemonhugger Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_c8b94189f70f",
+    "display_name": "daemonhugger",
+    "user_id": "@daemonhugger",
+    "description": "Community Archive-derived proof-of-search sun for @daemonhugger.",
+    "document_count": 18513,
+    "word_count": 405050,
+    "active_days": 1088,
+    "emissions": [
+      "Way",
+      "Money",
+      "Don",
+      "Think",
+      "Want",
+      "Work"
+    ],
+    "generated_at": "2026-06-27T15:47:31.525568+00:00",
+    "color": "#f59e0b",
+    "mass": 12.912
+  },
+  "planets": [
+    {
+      "id": "planet_5dcc8ab8a622",
+      "name": "Way",
+      "summary": "Archive cluster around way: 15304 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "way",
+        "ungatedcreative",
+        "something",
+        "feel",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b25866bca711",
+          "title": "Way receipt from 2022-12-17",
+          "excerpt": "Genuine question:\n\nHas “fake it til you make it” ever worked for you?",
+          "source_document_id": "1603982684442738689",
+          "timestamp": "2022-12-17T05:17:27+00:00",
+          "url": "https://x.com/daemonhugger/status/1603982684442738689",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, ungatedcreative, something, feel."
+        },
+        {
+          "id": "art_7a1ae572847b",
+          "title": "Way receipt from 2021-04-09",
+          "excerpt": "I’ve never opened up about this before. And I can tell this is going to be painful to write. \n\nBut a few hours ago I had one of the most vivid realizations ever of how pickup has shaped my identity. And not for the better.",
+          "source_document_id": "1380604077982253060",
+          "timestamp": "2021-04-09T19:30:37+00:00",
+          "url": "https://x.com/daemonhugger/status/1380604077982253060",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, ungatedcreative, something, feel."
+        },
+        {
+          "id": "art_317c46c3dfc5",
+          "title": "Way receipt from 2021-01-13",
+          "excerpt": "The ethos of note-taking is the opposite of meditation.\n\nNote-taking says \"capture all the thoughts!\"\n\nMeditation says \"let go of all the thoughts.\"\n\nWhat to do?",
+          "source_document_id": "1349410673512439810",
+          "timestamp": "2021-01-13T17:39:10+00:00",
+          "url": "https://x.com/daemonhugger/status/1349410673512439810",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, ungatedcreative, something, feel."
+        },
+        {
+          "id": "art_58fd0e253b06",
+          "title": "Way receipt from 2021-03-01",
+          "excerpt": "You are in a relationship with everything in your life",
+          "source_document_id": "1366191180761956355",
+          "timestamp": "2021-03-01T00:58:54+00:00",
+          "url": "https://x.com/daemonhugger/status/1366191180761956355",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, ungatedcreative, something, feel."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_98afd1058d75",
+      "proof_score": 1,
+      "mass": 37.851,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_e1d98766a6fc",
+      "name": "Money",
+      "summary": "Archive cluster around money: 834 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "money",
+        "relationship",
+        "want",
+        "don",
+        "work"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f701a5e20464",
+          "title": "Money receipt from 2022-07-14",
+          "excerpt": "Money Maps: What, Why &amp; How 🧵\n\nhttps://t.co/J10ahuzeTE",
+          "source_document_id": "1547379284578340866",
+          "timestamp": "2022-07-14T00:35:45+00:00",
+          "url": "https://x.com/daemonhugger/status/1547379284578340866",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: money, relationship, want, don."
+        },
+        {
+          "id": "art_07f3b172f3cd",
+          "title": "Money receipt from 2021-12-08",
+          "excerpt": "What’s stopping you from making more money?",
+          "source_document_id": "1468682635538952194",
+          "timestamp": "2021-12-08T20:43:21+00:00",
+          "url": "https://x.com/daemonhugger/status/1468682635538952194",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: money, relationship, want, don."
+        },
+        {
+          "id": "art_8efe1830e3f2",
+          "title": "Money receipt from 2024-03-24",
+          "excerpt": "As of today I've done 53 Money Mapping sessions 🤯\n\nBig thanks to all of you who've had the curiosity, courage and trust to spend two hours with an anonymous internet stranger exploring all the whacky and often hilarious nuances of how we relate to money.",
+          "source_document_id": "1771962655802081697",
+          "timestamp": "2024-03-24T18:09:53+00:00",
+          "url": "https://x.com/daemonhugger/status/1771962655802081697",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: money, relationship, want, don."
+        },
+        {
+          "id": "art_ca247c9db407",
+          "title": "Money receipt from 2021-03-27",
+          "excerpt": "Less interested in: \n🚫 How do I make $1,000,000?\n\nMore interested in: \n✅ How do I radically reduce the shame and fear I feel around money?",
+          "source_document_id": "1375634268555247618",
+          "timestamp": "2021-03-27T02:22:22+00:00",
+          "url": "https://x.com/daemonhugger/status/1375634268555247618",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: money, relationship, want, don."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_b70933081c2b",
+      "proof_score": 1,
+      "mass": 30.368,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_0476d7ce77da",
+      "name": "Don",
+      "summary": "Archive cluster around don: 792 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "think",
+        "feel"
+      ],
+      "artifacts": [
+        {
+          "id": "art_02ba3fd07114",
+          "title": "Don receipt from 2022-12-20",
+          "excerpt": "It’s hard to fake it when you don’t actually want to make it.",
+          "source_document_id": "1605023394944102400",
+          "timestamp": "2022-12-20T02:12:51+00:00",
+          "url": "https://x.com/daemonhugger/status/1605023394944102400",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, think."
+        },
+        {
+          "id": "art_74c85f9095a9",
+          "title": "Don receipt from 2020-12-31",
+          "excerpt": "Hey folks, with the New Year almost upon us, here’s a reminder to ruthlessly cut out of your life anyone who is not adding at least $100,000 worth of value to you. \n\nIf you don’t walk away from your experiences together thinking “I would’ve paid $100K for that,” get rid of them.",
+          "source_document_id": "1344487204328931330",
+          "timestamp": "2020-12-31T03:35:03+00:00",
+          "url": "https://x.com/daemonhugger/status/1344487204328931330",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, think."
+        },
+        {
+          "id": "art_cc0859aafc79",
+          "title": "Don receipt from 2021-11-30",
+          "excerpt": "When you don’t spend all your energy ruminating, you have a lot more energy.",
+          "source_document_id": "1465825797797646338",
+          "timestamp": "2021-11-30T23:31:18+00:00",
+          "url": "https://x.com/daemonhugger/status/1465825797797646338",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, think."
+        },
+        {
+          "id": "art_258f29f23840",
+          "title": "Don receipt from 2021-01-13",
+          "excerpt": "\"Write them down so you don't have to hold onto them in your head\" doesn't help you let go of thoughts, it just makes writing them down more urgent.",
+          "source_document_id": "1349414555949039617",
+          "timestamp": "2021-01-13T17:54:35+00:00",
+          "url": "https://x.com/daemonhugger/status/1349414555949039617",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, think."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_dfd17352c86e",
+      "proof_score": 1,
+      "mass": 30.563,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_bc1390608998",
+      "name": "Think",
+      "summary": "Archive cluster around think: 646 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "something",
+        "lol",
+        "question",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_522d44a347a2",
+          "title": "Think receipt from 2021-12-22",
+          "excerpt": "Good copywriting is narrative therapy.\n\nIn other words:\n\n“Knowing what your prospect’s story is, and how they think their current story is going to end… and then giving them a different ending.”\n\n— @craigclemens &amp; @Nicolascole77",
+          "source_document_id": "1473537993436643331",
+          "timestamp": "2021-12-22T06:16:49+00:00",
+          "url": "https://x.com/daemonhugger/status/1473537993436643331",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, lol, question."
+        },
+        {
+          "id": "art_019ee4551532",
+          "title": "Think receipt from 2021-04-09",
+          "excerpt": "I started to think back on my social life during all those years. During the years when I was working my first jobs. During college. During high school. Heck, even during middle school and elementary.\n\nOne thing stood out in common between all of them.",
+          "source_document_id": "1380604090141573120",
+          "timestamp": "2021-04-09T19:30:40+00:00",
+          "url": "https://x.com/daemonhugger/status/1380604090141573120",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, lol, question."
+        },
+        {
+          "id": "art_549521ab07dc",
+          "title": "Think receipt from 2021-06-21",
+          "excerpt": "Some people ignore nutrition and biochemistry in favor of emotional self-regulation through techniques like IFS. \n\nOthers ignore emotional work in favor of nutrition.\n\nFor those of you who use both, how do you think about the purpose and benefits of each? https://t.co/kxcnnK5xEz",
+          "source_document_id": "1407065784795414530",
+          "timestamp": "2021-06-21T19:59:59+00:00",
+          "url": "https://x.com/daemonhugger/status/1407065784795414530",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, lol, question."
+        },
+        {
+          "id": "art_95b63028fe55",
+          "title": "Think receipt from 2022-04-19",
+          "excerpt": "The more I use Twitter, the less I'm able to be alone with my thoughts. \n\nI think it's something to do with how this platform lets me instantly publish and share every little thing that I'm thinking. \n\nI get what I've been calling \"Twitterbrain.\"",
+          "source_document_id": "1516242912383680516",
+          "timestamp": "2022-04-19T02:30:55+00:00",
+          "url": "https://x.com/daemonhugger/status/1516242912383680516",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, lol, question."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9d58234b2a11",
+      "proof_score": 0.997,
+      "mass": 29.94,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_0813bca3be64",
+      "name": "Want",
+      "summary": "Archive cluster around want: 429 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "want",
+        "something",
+        "really",
+        "other",
+        "things"
+      ],
+      "artifacts": [
+        {
+          "id": "art_d82bff65dddb",
+          "title": "Want receipt from 2021-04-09",
+          "excerpt": "So again, hopefully you connected with some of this. \n\nIf you want to chat about it at all, feel free to ask me anything. I never had anyone to talk to about this stuff, so I want to be an open book for anyone else who may be going through the same thing.",
+          "source_document_id": "1380605015388262403",
+          "timestamp": "2021-04-09T19:34:20+00:00",
+          "url": "https://x.com/daemonhugger/status/1380605015388262403",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, something, really, other."
+        },
+        {
+          "id": "art_f851cf20acde",
+          "title": "Want receipt from 2021-04-09",
+          "excerpt": "It changed everything for me. It changed my values. It changed how I look at myself. It changed the kind of person I want to be and the kind of people I respect.",
+          "source_document_id": "1380605007121252356",
+          "timestamp": "2021-04-09T19:34:18+00:00",
+          "url": "https://x.com/daemonhugger/status/1380605007121252356",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, something, really, other."
+        },
+        {
+          "id": "art_10600adc5b50",
+          "title": "Want receipt from 2021-04-09",
+          "excerpt": "I switched high schools for sophomore year. I thought it was my chance. I’d finally get a fresh start. I’d be one of the “cool” guys. Everyone would like me. Everyone would want to hang out. \n\nBut it didn’t happen.\n\nSo I left for college a year early. I had the same fantasy.",
+          "source_document_id": "1380604098924457992",
+          "timestamp": "2021-04-09T19:30:42+00:00",
+          "url": "https://x.com/daemonhugger/status/1380604098924457992",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, something, really, other."
+        },
+        {
+          "id": "art_8862084bfacc",
+          "title": "Want receipt from 2023-01-20",
+          "excerpt": "I'm thinking of starting an email list. \n\nTwitter is too public. \n\nIt's very fun here. But if you know me, you know that I'm very private. Personal and emotional boundaries are extremely important to me.\n\nBut I do want to be sharing my thoughts, experiences and my journey more.",
+          "source_document_id": "1616261020397207553",
+          "timestamp": "2023-01-20T02:27:10+00:00",
+          "url": "https://x.com/daemonhugger/status/1616261020397207553",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, something, really, other."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d578afcffe63",
+      "proof_score": 0.956,
+      "mass": 28.613,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_3e434ff9339b",
+      "name": "Work",
+      "summary": "Archive cluster around work: 508 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "work",
+        "time",
+        "doing",
+        "gendlin",
+        "know"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f8f5895b273f",
+          "title": "Work receipt from 2020-12-07",
+          "excerpt": "Anyone in this self-therapy corner of Twitter use Roam Research?\n\nI've yet to give it a try but I'm particularly interested in using it for self-therapy purposes: journaling, keeping track of emotions, dreams, parts work, etc.\n\nCurious if anyone's doing this already 😃",
+          "source_document_id": "1335993287098781698",
+          "timestamp": "2020-12-07T17:03:15+00:00",
+          "url": "https://x.com/daemonhugger/status/1335993287098781698",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: work, time, doing, gendlin."
+        },
+        {
+          "id": "art_8361bb959b5e",
+          "title": "Work receipt from 2023-07-18",
+          "excerpt": "Thought experiment:\n\nImagine that you cannot engage in any further introspective or therapeutic work. Your only path to health, wealth and happiness is through behavioral and environmental change.\n\nHow would your living situation and day-to-day life evolve?",
+          "source_document_id": "1681427306542399489",
+          "timestamp": "2023-07-18T22:14:43+00:00",
+          "url": "https://x.com/daemonhugger/status/1681427306542399489",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: work, time, doing, gendlin."
+        },
+        {
+          "id": "art_8efe70dc9cd0",
+          "title": "Work receipt from 2021-06-04",
+          "excerpt": "Know any good coaches and/or therapists helping people with shadow work, Focusing, IFS, etc?\n\nOff the top of my head:\n@m_ashcroft \n@mattgoldenberg \n@amelapay \n@QiaochuYuan \n@sashachapin mentioned someone re: Existential Kink\n@differentspace1 \n@AhojNadjeschda \n\nWho else?",
+          "source_document_id": "1400855299003764739",
+          "timestamp": "2021-06-04T16:41:44+00:00",
+          "url": "https://x.com/daemonhugger/status/1400855299003764739",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: work, time, doing, gendlin."
+        },
+        {
+          "id": "art_eb849c00de27",
+          "title": "Work receipt from 2020-10-09",
+          "excerpt": "Internal Family Systems (Resources Thread)\n\n(If you've found some IFS-related material that's been super helpful (whether it's helped you understand IFS better, or helped you do some IFS work yourself, etc.) please share!)",
+          "source_document_id": "1314615165619367936",
+          "timestamp": "2020-10-09T17:14:14+00:00",
+          "url": "https://x.com/daemonhugger/status/1314615165619367936",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: work, time, doing, gendlin."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9885496639a5",
+      "proof_score": 0.973,
+      "mass": 29.123,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
